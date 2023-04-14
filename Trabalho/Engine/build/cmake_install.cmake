@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Marta/Desktop/CG2023/Fase 1/Engine/code
+# Install script for directory: C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/generator")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/engine")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Marta/Desktop/CG2023/Fase 1/Engine/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

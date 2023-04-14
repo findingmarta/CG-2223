@@ -5,7 +5,7 @@ PROJECT(engine)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
-add_executable(${PROJECT_NAME} main.cpp point.h figure.h)
+add_executable(${PROJECT_NAME} main.cpp point.h figure.h group.h transformation.h)
 
 find_package(OpenGL REQUIRED)
 include_directories(${OpenGL_INCLUDE_DIRS})

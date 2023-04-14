@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Marta\Desktop\CG2023\Fase 1\Generator\build\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\Marta\Desktop\CG2023\Trabalho\Generator\build\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Marta\Desktop\CG2023\Fase 1\Generator\build\Debug\generator.exe</FullPath>
+      <FullPath>C:\Users\Marta\Desktop\CG2023\Trabalho\Generator\build\Debug\generator.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
