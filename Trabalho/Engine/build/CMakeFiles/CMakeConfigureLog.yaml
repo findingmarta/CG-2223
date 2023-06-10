@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.4.1+9a89d02ff for .NET Framework
-      Build started 14/04/2023 20:39:15.
+      Build started 04/06/2023 00:34:24.
       Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -50,7 +50,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.87
+      Time Elapsed 00:00:00.86
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -76,7 +76,7 @@ events:
       The output was:
       0
       MSBuild version 17.4.1+9a89d02ff for .NET Framework
-      Build started 14/04/2023 20:39:16.
+      Build started 04/06/2023 00:34:25.
       Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -102,7 +102,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.56
+      Time Elapsed 00:00:00.65
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -121,8 +121,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-gawgnx"
-      binary: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-gawgnx"
+      source: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-qioj63"
+      binary: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-qioj63"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
@@ -130,36 +130,36 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-gawgnx
+        Change Dir: C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-qioj63
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_be431.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 14/04/2023 20:39:17.
-        Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gawgnx\\cmTC_be431.vcxproj" on node 1 (default targets).
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2c9f4.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
+        Build started 04/06/2023 00:34:26.
+        Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qioj63\\cmTC_2c9f4.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_be431.dir\\Debug\\".
-          Creating directory "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gawgnx\\Debug\\".
-          Creating directory "cmTC_be431.dir\\Debug\\cmTC_be431.tlog\\".
+          Creating directory "cmTC_2c9f4.dir\\Debug\\".
+          Creating directory "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qioj63\\Debug\\".
+          Creating directory "cmTC_2c9f4.dir\\Debug\\cmTC_2c9f4.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_be431.dir\\Debug\\cmTC_be431.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_2c9f4.dir\\Debug\\cmTC_2c9f4.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_be431.dir\\Debug\\\\" /Fd"cmTC_be431.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2c9f4.dir\\Debug\\\\" /Fd"cmTC_2c9f4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler VersÆo 19.34.31937 para x86
           Copyright (C) Microsoft Corporation. Todos os direitos reservados.
           CMakeCCompilerABI.c
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_be431.dir\\Debug\\\\" /Fd"cmTC_be431.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2c9f4.dir\\Debug\\\\" /Fd"cmTC_2c9f4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gawgnx\\Debug\\cmTC_be431.exe" /INCREMENTAL /ILK:"cmTC_be431.dir\\Debug\\cmTC_be431.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-gawgnx/Debug/cmTC_be431.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-gawgnx/Debug/cmTC_be431.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_be431.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_be431.vcxproj -> C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gawgnx\\Debug\\cmTC_be431.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qioj63\\Debug\\cmTC_2c9f4.exe" /INCREMENTAL /ILK:"cmTC_2c9f4.dir\\Debug\\cmTC_2c9f4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-qioj63/Debug/cmTC_2c9f4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-qioj63/Debug/cmTC_2c9f4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_2c9f4.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_2c9f4.vcxproj -> C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qioj63\\Debug\\cmTC_2c9f4.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_be431.dir\\Debug\\cmTC_be431.tlog\\unsuccessfulbuild".
-          Touching "cmTC_be431.dir\\Debug\\cmTC_be431.tlog\\cmTC_be431.lastbuildstate".
-        Done Building Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gawgnx\\cmTC_be431.vcxproj" (default targets).
+          Deleting file "cmTC_2c9f4.dir\\Debug\\cmTC_2c9f4.tlog\\unsuccessfulbuild".
+          Touching "cmTC_2c9f4.dir\\Debug\\cmTC_2c9f4.tlog\\cmTC_2c9f4.lastbuildstate".
+        Done Building Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qioj63\\cmTC_2c9f4.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.54
+        Time Elapsed 00:00:00.65
         
       exitCode: 0
   -
@@ -171,8 +171,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-w6p4ek"
-      binary: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-w6p4ek"
+      source: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-ak4fv1"
+      binary: "C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-ak4fv1"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
@@ -180,36 +180,36 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-w6p4ek
+        Change Dir: C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-ak4fv1
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_36fc5.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 14/04/2023 20:39:18.
-        Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w6p4ek\\cmTC_36fc5.vcxproj" on node 1 (default targets).
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_19cab.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
+        Build started 04/06/2023 00:34:27.
+        Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak4fv1\\cmTC_19cab.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_36fc5.dir\\Debug\\".
-          Creating directory "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w6p4ek\\Debug\\".
-          Creating directory "cmTC_36fc5.dir\\Debug\\cmTC_36fc5.tlog\\".
+          Creating directory "cmTC_19cab.dir\\Debug\\".
+          Creating directory "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak4fv1\\Debug\\".
+          Creating directory "cmTC_19cab.dir\\Debug\\cmTC_19cab.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_36fc5.dir\\Debug\\cmTC_36fc5.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_19cab.dir\\Debug\\cmTC_19cab.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_36fc5.dir\\Debug\\\\" /Fd"cmTC_36fc5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_19cab.dir\\Debug\\\\" /Fd"cmTC_19cab.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler VersÆo 19.34.31937 para x86
           CMakeCXXCompilerABI.cpp
           Copyright (C) Microsoft Corporation. Todos os direitos reservados.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_36fc5.dir\\Debug\\\\" /Fd"cmTC_36fc5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_19cab.dir\\Debug\\\\" /Fd"cmTC_19cab.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w6p4ek\\Debug\\cmTC_36fc5.exe" /INCREMENTAL /ILK:"cmTC_36fc5.dir\\Debug\\cmTC_36fc5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-w6p4ek/Debug/cmTC_36fc5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-w6p4ek/Debug/cmTC_36fc5.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_36fc5.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_36fc5.vcxproj -> C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w6p4ek\\Debug\\cmTC_36fc5.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak4fv1\\Debug\\cmTC_19cab.exe" /INCREMENTAL /ILK:"cmTC_19cab.dir\\Debug\\cmTC_19cab.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-ak4fv1/Debug/cmTC_19cab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Marta/Desktop/CG2023/Trabalho/Engine/build/CMakeFiles/CMakeScratch/TryCompile-ak4fv1/Debug/cmTC_19cab.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_19cab.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_19cab.vcxproj -> C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak4fv1\\Debug\\cmTC_19cab.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_36fc5.dir\\Debug\\cmTC_36fc5.tlog\\unsuccessfulbuild".
-          Touching "cmTC_36fc5.dir\\Debug\\cmTC_36fc5.tlog\\cmTC_36fc5.lastbuildstate".
-        Done Building Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w6p4ek\\cmTC_36fc5.vcxproj" (default targets).
+          Deleting file "cmTC_19cab.dir\\Debug\\cmTC_19cab.tlog\\unsuccessfulbuild".
+          Touching "cmTC_19cab.dir\\Debug\\cmTC_19cab.tlog\\cmTC_19cab.lastbuildstate".
+        Done Building Project "C:\\Users\\Marta\\Desktop\\CG2023\\Trabalho\\Engine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak4fv1\\cmTC_19cab.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.56
+        Time Elapsed 00:00:00.68
         
       exitCode: 0
 ...

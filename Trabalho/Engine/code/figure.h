@@ -3,6 +3,7 @@
 
 #include <vector>
 #include "point.h"
+#include "color.h"
 
 using namespace std;
 
@@ -10,12 +11,16 @@ class Figure {
 
 private:
 	vector <Point> vertices;
+	Color color;
+	string texture_file;
 
 public:
 	Figure() = default;
 
-	Figure(vector<Point> vertices) {
+	Figure(vector<Point> vertices, Color color, string texture_file) {
 		this->vertices = vertices; 
+		this->color = color;
+		this->texture_file = texture_file;
 	}
 
 	std::vector<Point> getVertices() {
@@ -26,12 +31,12 @@ public:
 		return vertices.size();
 	}
 
-	Point getPoint(int index) {
-		return vertices[index];
+	Color getColor() {
+		return color;
 	}
 
-	void addPoint(Point p) {
-		vertices.push_back(p);
+	string getTextureID() {
+		return texture_file;
 	}
 };
 
